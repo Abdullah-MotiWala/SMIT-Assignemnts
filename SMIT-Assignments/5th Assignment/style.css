@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    background-color: rgb(58, 57, 57);
+}
+*{
+    font-family: sans-serif;
+    color: whitesmoke;
+    
+}
+div.left_side{
+    box-shadow: 5px 0px 10px 5px black;
+    text-align: center;
+}
+img{
+    width: 350px;
+    height: 100%;
+  
+}
+div.right_side{
+    margin-left: 50px;
+}
+.about{
+    font-size: 3em;
+}
+.info, i, .developer{
+    color: rgb(72, 153, 72);
+}
+hr{
+    margin-right: 20px;
+}
+div.textblock{
+    position: relative;
+    bottom: 110px;
+    font-weight: bold;
+}
